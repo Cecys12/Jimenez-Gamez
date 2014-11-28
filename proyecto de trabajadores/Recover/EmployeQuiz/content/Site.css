@@ -1,0 +1,186 @@
+﻿body {
+    font-size: .95em;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+    color: white;
+  /*  background-color: #ddd;*/
+    background:url(fondo.jpg) no-repeat;
+    background-size: 129% 129%;
+    border-radius:6px;
+    
+}
+
+header, footer, nav, section {
+    display: block;
+}
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+    background-color:red;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+
+/* Stilo basico 1
+-----------------------------------------------------------*/
+input#nombre {
+    margin:20px;
+    width:200px;
+    height:30px;
+    padding-left:10px;
+    outline-color:white;
+    border:1px solid groove;
+    -webkit-border-radius:4px;
+    -webkit-box-shadow:0px 0px 4px blue; 
+    -webkit-transition: width .5s;
+
+}
+    input#nombre:focus {
+        width:300px;
+    }
+
+input#pass {
+    margin:20px;
+    width:200px;
+    height:30px;
+    padding-left:10px;
+    outline-color:red;
+    border:1px solid groove;
+    -webkit-border-radius:4px;
+    -webkit-box-shadow:0px 0px 4px blue; 
+    -webkit-transition: width .5s;
+
+}
+    input#pass:focus {
+        width:300px;
+    }
+    .blue {
+	color: #006;
+}
+
+input#boton {
+    padding:5px 50px;
+    color:white;
+    font-size:1em;
+    background-color:#5dade2;
+    -webkit-transition: background-color .25s;
+    border:0px;
+    -webkit-border-radius:5px;
+    -webkit-box-shadow: 0px 4px 0px #4AA4DF;
+}
+input#boton2 {
+    padding:3px 20px;
+    color:white;
+    font-size:1em;
+    background-color:#5dade2;
+    -webkit-transition: background-color .25s;
+    border:0px;
+    -webkit-border-radius:3px;
+    -webkit-box-shadow: 0px 1px 0px #4AA4DF;
+}
+    input#boton:hover {
+        background-color:darkblue;
+
+    }
+h2{
+    font-size:50px;
+    font-family:'Global Serif';
+    color:#0094ff;
+}
+
+h3{
+    font-size:18px;
+    font-family:'Segoe UI';
+    color:red;
+}
+
+#d {
+    text-align:right
+}
+#i {
+    text-align:left
+}
+ul li img {
+    border-radius:6px;
+    width:300px;
+    height:300px;
+    -webkit-transition:all .6s ease;
+    opacity: .8;
+    box-shadow: 0px 0px 10px blue;
+     width: 300px; margin: 0 auto; }
+            
+ul li img:hover{
+    opacity: 2;
+    border-radius:200px;
+    box-shadow: 0px 0px 20px red/*#0094ff*/;
+   -webkit-transform:scale(1.2) rotate(360deg);
+}
+#la {
+    font-family:serif;
+    color:#808080;
+    font-size:22px;
+}
+#h {
+    height:30px;
+}
+
+#white {
+	color: #FFF;
+}
+#black {
+	color: #000;
+}
+#tab {
+	font-weight: bold;
+	color: #000;
+    	font-style: italic;
+}
+#tab #h #i center h1 {
+	font-size: 14px;
+}
+

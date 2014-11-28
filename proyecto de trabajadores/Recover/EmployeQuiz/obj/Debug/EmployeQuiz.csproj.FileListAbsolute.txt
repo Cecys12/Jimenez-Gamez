@@ -1,0 +1,137 @@
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\EmployeQuiz.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\EmployeQuiz.pdb
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\Newtonsoft.Json.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Net.Http.Formatting.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Helpers.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Http.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Http.WebHost.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Mvc.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Razor.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.WebPages.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\Newtonsoft.Json.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Net.Http.Formatting.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Helpers.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Http.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Http.WebHost.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Mvc.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.Razor.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.WebPages.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.xml
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.Http.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.Razor.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.WebPages.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.csprojResolveAssemblyReference.cache
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.dll
+C:\Users\cypher\Documents\Visual Studio 2012\Daw2\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.pdb
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\EmployeQuiz.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\EmployeQuiz.pdb
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\Newtonsoft.Json.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Net.Http.Formatting.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Helpers.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Http.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Http.WebHost.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Mvc.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Razor.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.WebPages.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\Newtonsoft.Json.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Net.Http.Formatting.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Helpers.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Http.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Http.WebHost.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Mvc.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.Razor.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.WebPages.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.xml
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.Helpers.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.Http.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.Mvc.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.Razor.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.WebPages.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.csprojResolveAssemblyReference.cache
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.dll
+C:\Users\cypher\Documents\lo del nuevo semestre\desarrollo de aplicaciones web\unidad 3\practicas\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.pdb
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\EmployeQuiz.dll.config
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\EmployeQuiz.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\EmployeQuiz.pdb
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\Newtonsoft.Json.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Net.Http.Formatting.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Helpers.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Http.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Http.WebHost.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Mvc.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Razor.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\Newtonsoft.Json.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Net.Http.Formatting.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Helpers.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Http.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Http.WebHost.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Mvc.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Razor.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.xml
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Helpers.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Http.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Mvc.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Razor.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.WebPages.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.csprojResolveAssemblyReference.cache
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.dll
+C:\Users\monse_000\Desktop\proyecto de trabajadores\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.pdb
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\EmployeQuiz.dll.config
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\EmployeQuiz.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\EmployeQuiz.pdb
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\Newtonsoft.Json.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Helpers.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Mvc.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Razor.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\Newtonsoft.Json.xml
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Helpers.xml
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Mvc.xml
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.Razor.xml
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.xml
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.dll
+C:\Users\Cesar Infernity\Documents\Visual Studio 2013\Projects\proyecto de trabajadores\Recover\EmployeQuiz\obj\Debug\EmployeQuiz.pdb

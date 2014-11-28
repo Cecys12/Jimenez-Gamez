@@ -1,0 +1,72 @@
+﻿@model Pk2_Invitacion.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/content/site.css" rel="stylesheet" type="text/css">
+
+     <title>FORMULARIO RSVP</title>
+   
+</head>
+<body >
+
+    <div id="cabecera">
+
+        <div id="contenidoCabecera">
+
+            <div id="barraHorizontal">
+
+            </div>
+            <div id="logotipo">
+
+
+            </div>
+
+            <div id="titulo">
+                <h1>INVITACION A NUESTRA FIESTA</h1>
+                <h2>Liliana Osorio y Oscar Martinez</h2>
+
+            </div>
+        </div>
+    </div>
+   
+   
+    <h1 >Te invito a mi fiesta!!!!</h1>
+    <img src="C:\Users\Lilianzhita\Documents\Visual Studio 2013\Projects\DAW\Pk2_Invitacion\10.jpg">
+    <div>
+        @using(Html.BeginForm())
+    {
+            @Html.ValidationSummary()
+            <p align="center"> Tu nombre: @Html.TextBoxFor(x => x.Name)</p>
+    <p align="center"> Tu correo electronico: @Html.TextBoxFor(x => x.Email)</p>
+    <p align="center"> Tu telefono: @Html.TextBoxFor(x => x.Phone)</p>
+    <p align="center">
+        Asistiras a la fiesta?
+        @Html.DropDownListFor(x => x.WillAttend,
+                new[]
+                {
+                new SelectListItem()
+                {
+                    Text="Si, Ahi estare", Value = bool.TrueString
+                },
+                new SelectListItem()
+                {
+                    Text="No, No podre Asistir", Value = bool.FalseString
+                }
+                }, "Escoje una opcion")
+    </p>
+    <ul id="hmenu">
+        <input type="submit" value="Submit RSVP" class="boton colorBoton formaBoton" />
+    </ul>
+    }
+
+       
+    </div>
+</body>
+</html>

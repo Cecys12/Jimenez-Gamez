@@ -1,0 +1,33 @@
+﻿@model EmployeQuiz.Models.Employee
+
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/content/Site.css" />
+    <title>Index</title>
+</head>
+<body>
+    <marquee><h2>"* /  WEBMUN /*"</h2></marquee>
+ <center>
+     <h1>"Trabajadores"</h1>
+
+</center>
+
+    <div id="caja">
+         @using (Html.BeginForm())
+         {
+             <center>
+             <label id="la">Numero de trabajador</label>   
+          <p>@Html.TextBoxFor(m => m.Id)</p>
+                 <br />
+     
+             <input type="submit" value="BUSCAR" id="boton" />
+        </center>
+         }
+    </div>
+</body>
+   
+</html>

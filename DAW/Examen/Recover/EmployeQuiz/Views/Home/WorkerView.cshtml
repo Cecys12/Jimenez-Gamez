@@ -1,0 +1,103 @@
+﻿@model EmployeQuiz.Models.Employee
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/content/Site.css" />
+    <title>WorkerView</title>
+</head>
+<body>
+    <div id="caja">
+        @{
+            try
+            {  
+        <center>
+            <marquee><h2>"* /  WEBMUN /*"</h2></marquee>
+            <ul>
+                <li>
+        <img src="@Url.Content(Model.PhotoPath)" alt="Sample Image" width="400" height="500"/>
+                    </li>
+                </ul>
+
+<table id="tab">
+    <tr id="h">
+        <td id="d">
+           <p>
+            <b>Posicion:</b>
+          </p>
+        </td>
+            <td id="i"><p>@Model.Position</p></td>
+    </tr>
+
+ <tr id="h">
+        <td id="d">
+        <p>
+            <b>ID:</b>
+        </p>
+        </td>     
+            <td id="i"><p>@Model.Id</p></td>
+        
+    </tr>
+
+<tr id="h">
+        <td id="d">
+           <p>
+            <b>Nombre:</b>
+           </p>
+        </td>
+            <td id="i"><p>@Model.Name</p></td>
+</tr>
+
+
+<tr id="h">
+     <td id="d">
+        <p>
+            <b>Apellidos:</b>
+        </p>
+     </td>
+            <td id="i"><p>@Model.FirstLastname @Model.SecondLastname</p></td>
+        
+</tr>
+
+<tr id="h">
+     <td id="d">
+        <p>
+            <b>Salario:</b>
+       </p>
+     </td>
+            <td id="i"><p>@Model.Wange</p></td>
+        
+</tr>
+
+<tr id="h">
+     <td id="d">
+        <p>
+            <b>Sexo:</b>
+       </p>
+         </td>
+            <td id="i"><p>@Model.Sex</p></td>
+ </tr>       
+</table>
+        </center>
+        }
+        catch (Exception){
+    @: <b  id="error"><h1> Trabajador no encontrado VUELVE A INTENTARLO</h1></b>
+        }
+        }
+    </div>
+
+    <br>
+    <center>
+        <h3>@Html.ActionLink("<Regresar" , "Index")</h3>
+        <br/>
+       
+    </center>
+   
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetTimeImage</title>
+</head>
+<body>
+    <div>
+        @if (ViewBag.hora > 12)
+        {
+            <img src="@Url.Content("~/IMAGENES/luna.JPG")" width="200px" height="200px" alt="imgf"/>
+        }
+        else
+        {
+            <img src="@Url.Content("~/IMAGENES/sol.JPG")" width="200px" height="200px" alt="imgf"/>
+        }
+                
+        
+        
+    </div>
+</body>
+</html>

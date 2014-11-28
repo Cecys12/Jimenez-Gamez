@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "NotFound";
+}
+
+<h2>La informacion que buscaba no pudo ser encontrada</h2>
+<h2> Detalles</h2>
+<ul>
+    <li> <b>Codigo de error </b>@ViewBag.ErrorCode</li>
+    <li> <b>Description </b>@ViewBag.Description</li>
+</ul>
+<img src="@Url.Content("~/Photos/no-image.JPG")" width="200px" height="200px" alt="imgf" />

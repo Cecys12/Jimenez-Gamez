@@ -1,0 +1,115 @@
+﻿body {
+    background-color:pink;
+    animation-direction:alternate-reverse;
+    
+}
+
+#cabecera
+{
+    height:150px;
+    background-color:aquamarine;
+    color:white;
+    border:1px dashed coral;
+    box-shadow:0px 0px 10px #313131;
+}
+
+#contenidoCabecera
+{
+    width:1000px;
+    margin:auto;
+}
+
+#barraHorizontal
+{
+    height:30px;
+    background-color:#b200ff;
+    border-radius:0px 0px 10px 10px;
+    box-shadow:0px 0px 10px #000 inset;
+}
+h1
+	{
+		font-family:Georgia, "Times New Roman", Times, serif;
+		font-size:14px;
+        color:brown;
+        margin-left:initial;
+	}
+p{
+
+    font-family:pink;
+    color:pink;
+}
+.field-validation-error{
+                               color:aqua;
+                           }
+                           .field-validation-valid 
+                           {
+                               display: none;
+                           }
+                           .input-validation-error 
+                           {
+                               border:1px solid aquamarine;
+                               background-color: blueviolet;
+                           }
+                           .validation-summary-errors
+                           {
+                               font-weight: bold;
+                               color:#b200ff;
+                           }
+                           .validation-summary-valid 
+                           {
+                               display: none;
+                               }
+
+             .boton {
+text-decoration: none;
+	 color: beige;
+	 font-weight: bold;
+	 padding: 12px 20px;
+	 font-size: 18px;
+	 border-radius: 10px;
+	 background-color: brown;
+	 box-shadow: 0 5px 5px bisque, 0 9px 0 #393939, 0px 9px 10pxrgba(0,0,0,0.4), inset 0px 2px 9px rgba(255,255,255,0.2), inset 0-2px 9px rgba(0,0,0,0.2);
+	 position: relative;
+	 border-bottom: 1px solid rgba(255,255,255,0.2);
+	 display: inline-block;
+	 font-family: Arial, Helvetica, sans;
+	 text-shadow: 0px -1px 0px rgba(0,0,0,0.2);
+	}
+	 
+	.boton:hover {
+	 box-shadow: 0 5px 5px #313131, 0 9px 0 #393939, 0px 9px 10pxrgba(0,0,0,0.4), inset 0px 2px 15px rgba(255,255,255,0.4), inset 0-2px 9px rgba(0,0,0,0.2);
+	 color: cadetblue !important;
+	}
+	 
+	.boton:active {
+	 top: 7px;
+	 box-shadow: 0 2px 0 #393939, 0px 4px 4px rgba(0,0,0,0.4), inset0px 2px 5px rgba(0,0,0,0.2);
+	 color: #fff !important;
+	}
+	 
+	.formaBoton {
+	 border-radius: 40px;
+	 padding-left: 10px;
+	 padding-right: 20px;
+	}
+	 
+	.color{
+	 background-color: brown;
+	 box-shadow: 0 5px 5px #853232, 0 9px 0 #5e2525, 0px 9px 10pxrgba(0,0,0,0.4), inset 0px 2px 9px rgba(255,255,255,0.2), inset 0-2px 9px rgba(0,0,0,0.2);
+	}
+	 
+	.colorAzul:hover {
+	 box-shadow: 0 5px 5px #853232, 0 9px 0 #5e2525, 0px 9px 10pxrgba(0,0,0,0.4), inset 0px 2px 15px rgba(255,255,255,0.4), inset 0-2px 9px rgba(0,0,0,0.2);
+	}
+	 
+	.colorAzul:active {
+	 box-shadow: 0 2px 0 #5e2525, 0px 4px 4px rgba(0,0,0,0.4), inset0px 2px 5px rgba(0,0,0,0.2);
+	}
+     div {  
+  background-color:coral;  
+  width: 1000px; 
+  border:1px dashed ;
+  margin-left: auto;  
+  margin-right: auto;
+}
+      

@@ -1,0 +1,157 @@
+﻿body {
+    font-size: 20px;
+    font-family:'Snap ITC' "Segoe UI", Verdana, Helvetica, sans-serif;
+    color: #db0bf2 ;
+   background-color: #b200ff;
+    background:url(fondo.jpg) no-repeat;
+    background-size: 100% 100%;
+    border-radius:200px;
+}
+
+header, footer, nav, section {
+    display: grid;
+}
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: inline-flexbox;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #1e70e2;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+
+/* Stilo basico 1
+-----------------------------------------------------------*/
+input#nombre {
+    margin:20px;
+    width:200px;
+    height:30px;
+    padding-left:10px;
+    outline-color:blue;
+    border:1px solid groove;
+    -webkit-border-radius:4px;
+    -webkit-box-shadow:0px 0px 4px blue; 
+    -webkit-transition: width .5s;
+
+}
+    input#nombre:focus {
+        width:300px;
+    }
+
+input#pass {
+    margin:20px;
+    width:200px;
+    height:30px;
+    padding-left:10px;
+    outline-color:green;
+    border:1px solid groove;
+    -webkit-border-radius:4px;
+    -webkit-box-shadow:0px 0px 4px blue; 
+    -webkit-transition: width .5s;
+
+}
+    input#pass:focus {
+        width:300px;
+    }
+
+input#boton {
+    padding:20px 80px;
+    color:whitesmoke;
+    font-size:1em;
+    background-color:#ee1486;
+    -webkit-transition: background-color .25s;
+    border:0px;
+    -webkit-border-radius:5px;
+    -webkit-box-shadow: 0px 4px 0px #4AA4DF;
+}
+    input#boton:hover {
+        background-color:#f733a5;
+
+    }
+    h1{
+    font-size:50px;
+    font-family:Gisha;
+    color: #055b21;
+}
+
+h2{
+    font-size:85px;
+    font-family:Magneto;
+    color:deeppink;
+}
+h3{
+    font-size:40px;
+    font-family:cursive;
+    color:#7817e6;
+}
+#d {
+    text-align:right
+}
+#i {
+    text-align:left
+}
+ul li img {
+    border-radius:6px;  
+    width:300px;
+    height:300px;
+    /* -webkit-transition:all .6s ease; */
+    /*opacity: .8; */
+}
+/*ul li img:hover{
+    opacity: 1;
+    border-radius:200px;
+    box-shadow: 0px 0px 20px #0094ff;
+   -webkit-transform:scale(1.2) rotate(360deg); */
+}
+#la {
+    font-family:serif;
+    color:#c01eef;
+    font-size:30px;
+}
+#h {
+    height:50px;
+}

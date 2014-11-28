@@ -1,0 +1,117 @@
+﻿@model EmployeQuiz.Models.Employee
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/content/Site.css" />
+    <title>WorkerView</title>
+</head>
+<body>
+    <p align="right"><input type="date" value="FECHA" id="boton2" /></p>
+
+    <br>
+    <div id="caja">
+        @{
+            try
+            {
+                <center>
+                    <ul>
+                        <li>
+                            <img src="@Url.Content(Model.PhotoPath)" alt="Sample Image" width="400" height="500" />
+                        </li>
+                    </ul>
+
+                    <table width="503" height="295" id="tab">
+                        <tr id="h">
+                            <td width="81" align="left" valign="middle" bgcolor="#000066" id="white">
+                                <p>
+                                    <b>Posicion:</b>
+                                </p>
+                            </td>
+                            <td width="185" align="center" valign="middle" bgcolor="#CCCC66" id="tab"><p>@Model.Position</p></td>
+                            <td width="221" rowspan="6" bgcolor="#CCCC66" id="i">
+                                <p>&nbsp;</p>          <p>&nbsp;</p>          <p>
+                                    <center>
+                                        <h1>
+                                            @Html.ActionLink("REGRESAR", "Index")<br />
+                                    </h1>
+                                </center>
+                            </p>          <p>&nbsp;</p>          <p>&nbsp;</p>          <p>&nbsp;</p>
+                        </td>
+                    </tr>
+
+                    <tr id="h">
+                        <td align="left" valign="middle" bgcolor="#000066" id="white">
+                            <p>
+                                <b>ID:</b>
+                            </p>
+                        </td>
+                        <td align="center" valign="middle" bgcolor="#CCCC66" id="tab"><p>@Model.Id</p></td>
+                    </tr>
+
+                    <tr id="h">
+                        <td align="left" valign="middle" bgcolor="#000066" id="white">
+                            <p>
+                                <b>Nombre:</b>
+                            </p>
+                        </td>
+                        <td align="center" valign="middle" bgcolor="#CCCC66" id="tab"><p>@Model.Name</p></td>
+                    </tr>
+
+
+                    <tr id="h">
+                        <td align="left" valign="middle" bgcolor="#000066" id="white">
+                            <p>
+                                <b>Apellidos:</b>
+                            </p>
+                        </td>
+                        <td align="center" valign="middle" bgcolor="#CCCC66" id="tab"><p>@Model.FirstLastname @Model.SecondLastname</p></td>
+                    </tr>
+
+                    <tr id="h">
+                        <td align="left" valign="middle" bgcolor="#000066" id="white">
+                            <p>
+                                <b>Salario:</b>
+                            </p>
+                        </td>
+                        <td align="center" valign="middle" bgcolor="#CCCC66" id="tab"><p>@Model.Wange</p></td>
+                    </tr>
+
+                    <tr id="h">
+                        <td align="left" valign="middle" bgcolor="#000066" id="white">
+                            <p>
+                                <b>Sexo:</b>
+                            </p>
+                        </td>
+                        <td align="center" valign="middle" bgcolor="#CCCC66" id="tab"><p>@Model.Sex</p></td>
+                    </tr>
+                </table>
+
+                </center>
+            }
+            catch (Exception)
+            {
+                <center>
+                    <br /><font color="white" size="9px" face="Times New Roman"> GAMESOFT & ASOCIADOS <br />S.A de C.V</font>
+                </center>
+            
+
+                @: <b id="error"><center><h3> UPS!!! <br /><img src="@Url.Content("~/Photos/no-image.JPG")" width="100px" height="100px" alt="imgf" /><br /> CODIGO DE ERROR: 001FDE <br />DESCRIPCION: TRABAJADOR NO ENCONTRADO EN NUESTRA BD</h3></b></center>
+                <center>
+        <h1>
+            @Html.ActionLink("REGRESAR", "Index")<br />
+        </h1>
+        </center>
+
+            }
+        }
+    </div>
+    
+</body>
+</html>

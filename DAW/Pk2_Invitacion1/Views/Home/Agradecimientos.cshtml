@@ -1,0 +1,28 @@
+﻿@model Pk2_Invitacion.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Agradecimientos</title>
+</head>
+<body>
+    <div>
+        <h1>     !Gracias, @Model.Name!</h1>
+        @if (Model.WillAttend == true)
+        {
+            @:!Que bueno que vendras, las chelas estan en else refri
+        }
+        else
+        {
+            @:!Siento mucho que no puedas venir pero me debes mi regalo
+        }
+        </div>
+</body>
+</html>
